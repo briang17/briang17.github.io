@@ -33,7 +33,7 @@ button.show {
 }
 
 div.text {
-  margin: 0em 0em 0em 2em;
+  margin: 0em 0em 2em 2em;
   transition: .4s;
 }
 
