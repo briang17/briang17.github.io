@@ -3,9 +3,7 @@ let button = document.querySelector("#start");
 
 function show() {
   button.classList.toggle("show")
-  console.log("loaded");
 }
-
 
 let tu = new Audio('https://raw.githubusercontent.com/briang17/briang17.github.io/master/months/tu.m4a');
 tu.volume = 0.1;
